@@ -37,3 +37,7 @@
     height: 40px;
     background-color: white;
 }
+
+#clear-board{
+    position: relative;
+}

@@ -1,0 +1,43 @@
+#title{
+    position: relative;
+    border: solid black 1px;
+}
+
+.color{
+    border: solid black 1px;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+#red{
+    background-color: red;
+}
+
+#purple{
+    background-color: purple;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#black{
+    background-color: black;
+}
+
+#pixel-board{
+    position: relative;
+}
+
+.pixel{
+    border: solid black 1px;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+}
+
+#clear-board{
+    position: relative;
+}
